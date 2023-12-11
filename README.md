@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YuderHernandez I am a mecatronic engineering student in Bogota Colombia
+- 👋 Hi, I’m @YuderHernandez I am a mecatronic engineering in Bogota Colombia
 - 👀 I’m interested... really like technology and knowing how it works and how it affects us
 - 🌱 I’m currently learning ...I am currently learning web development
 - 💞️ I’m looking to collaborate on ...I would like to collaborate in computer security or industrial automation
